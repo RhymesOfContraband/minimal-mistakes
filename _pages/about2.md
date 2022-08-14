@@ -8,7 +8,7 @@ classes: wide
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya Telivigala|Bungee Shade">
 <style>
 .emphasis {
-  font-size: 120%;
+    font-size: 120%;
     font-family: Akaya Telivigala;
     color: #EE8322;
 }
@@ -26,7 +26,3 @@ Available for all kinds of work ranging from labels to posters and magazines, we
 fzafefgzefz
 
 ---
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
-
-}
