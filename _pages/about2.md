@@ -9,8 +9,8 @@ classes: wide
 <style>
 .emphasis {
   font-size: 120%;
-  color: #EE8322
-  font-family: Akaya Telivigala;
+    font-family: Akaya Telivigala;
+    color: #EE8322;
 }
 r {  
   font-family: Bungee Shade;
