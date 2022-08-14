@@ -3,9 +3,13 @@ permalink: /about/
 title: "About"
 excerpt: "Get to know us"
 classes: wide
+.emphasis {
+  font-size: 120%;
+  }
 ---
 
-Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with '<span style= "font-size":26px"> **text** and **texture**.</span>
+
+Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with '<span class="emphasis"> **text** and **texture**.</span>
 
  Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with '<span style= "font-size":1.563em"> **text** and **texture**.</span>
 
