@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: ""
-  overlay_image: /assets/images/Banner_1280.jpg
+  overlay_image: /assets/images/banner-1280.jpg
 
 excerpt: >
   A blog and portfolio for the writing, graphic design and layout done by Rhymes of Contraband.<br />
