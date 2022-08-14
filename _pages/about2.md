@@ -18,7 +18,7 @@ r {
 }
 </style>
 
-Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with <span class="emphasis"> **text** </span> and <r>**texture**</r>{:.language-html}.
+Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with <span class="emphasis"> **text** </span> and **<r>texture</r>{:.language-html}**.
 
 
 ## Notable Features
