@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:rhymesofcontraband@proton.me"
+      url: "mailto:rhymesofcontraband@proton.me"
     - label: "Itch.io"
       icon: "fas fa-fw fa-link"
       url: https://contrabandrimer.itch.io/
@@ -147,8 +147,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "#mailto:rhymesofcontraband@proton.me"
       # url:
     - label: "Itch.io"
       icon: "fas fa-fw fa-link"
