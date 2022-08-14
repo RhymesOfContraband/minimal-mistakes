@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: ""
-  overlay_image: /assets/images/banner-1280.jpg
+  overlay_image: /assets/images/banner-1280.png
 
 excerpt: >
   A blog and portfolio for the writing, graphic design and layout done by Rhymes of Contraband.<br />
@@ -20,14 +20,14 @@ feature_row:
   - image_path: /assets/images/about_feature.png
     alt: "About"
     title: "Get to know us"
-    excerpt: "Range, versatility and attention to detail combined with a vast range of interests"
+    excerpt: "Versatility and attention to detail combined with a vast range of interests"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/blog_feature.png
     alt: "Blog"
     title: "Musings"
-    excerpt: "Occasional reflections on the process behind a piece as well as TTRPGs and worldbuilding"
+    excerpt: "Occasional reflections on the process behind a piece as well as on roleplaying games and worldbuilding"
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
