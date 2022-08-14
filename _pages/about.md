@@ -3,11 +3,7 @@ permalink: /about/
 title: "About"
 excerpt: "Get to know us"
 classes: wide
-<style>
-.emphasis {
-  font-size: 120%;
-  }
-  </style>
+
 ---
 
 
