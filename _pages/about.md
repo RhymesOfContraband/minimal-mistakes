@@ -5,7 +5,9 @@ excerpt: "Get to know us"
 classes: wide
 ---
 
-Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with '<span style= "font-size":26px"> **text** and **texture**.</span>
+
+Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with **text** and **texture**.
+
 
 
 ## Notable Features
