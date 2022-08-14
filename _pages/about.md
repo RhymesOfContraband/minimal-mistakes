@@ -9,9 +9,9 @@ classes: wide
 ---
 
 
-Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with '<span class="emphasis"> **text** and **texture**.</span>
+Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with <span class="emphasis"> **text** and **texture**.</span>
 
- Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with '<span style= "font-size":1.563em"> **text** and **texture**.</span>
+ Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with '<span style= "font-size":1.563em"> **text** and **texture**.</span>'
 
 ## Notable Features
 
