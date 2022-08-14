@@ -5,15 +5,16 @@ excerpt: "Get to know us"
 classes: wide
 
 ---
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya Telivigala">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya Telivigala|Bungee Shade">
 <style>
 .emphasis {
   font-size: 120%;
   font-family: Akaya Telivigala;
 }
+r { font-family: Bungee Shade }
 </style>
 
-Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with  <span class="emphasis"> **text** and **texture**.</span>{:.language-html}
+Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with <span class="emphasis"> **text** </span> and <r>**texture**</r>{:.language-html}.
 
 
 ## Notable Features
