@@ -9,9 +9,13 @@ classes: wide
 <style>
 .emphasis {
   font-size: 120%;
+  color: #EE8322
   font-family: Akaya Telivigala;
 }
-r { font-family: Bungee Shade }
+r {  
+  font-family: Bungee Shade;
+  color: #EE8322
+}
 </style>
 
 Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with <span class="emphasis"> **text** </span> and <r>**texture**</r>{:.language-html}.
