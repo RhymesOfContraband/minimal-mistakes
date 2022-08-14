@@ -2,14 +2,12 @@
 permalink: /about/
 title: "About"
 excerpt: "Get to know us"
-
+classes: wide
 ---
 
-Description
+Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with '<span style= "font-size":26px"> **text** and **texture**.</span>
 
-
-
-And more
+ Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with '<span style= "font-size":1.563em"> **text** and **texture**.</span>
 
 ## Notable Features
 
