@@ -6,8 +6,7 @@ classes: wide
 ---
 
 
-Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with **text** and **texture**.
-
+Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with  **text** and **texture**.
 
 
 ## Notable Features
