@@ -1,8 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
+excerpt: "Get to know us"
+<!---  layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
     alt: "splash layout example"
@@ -12,18 +12,18 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2021-05-11T10:23:16-04:00
-toc: true
+last_modified_at: 
+toc: true --->
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Description
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+<!---{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}--->
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+And more
 
 ## Notable Features
-
+<!---
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
 - Support for Jekyll's built-in Sass/SCSS preprocessor.
@@ -78,8 +78,8 @@ For even more demo pages check the [posts archive][year-archive].
 - [FitVids.JS](http://fitvidsjs.com/)
 - Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
 - [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
+- [Lunr](http://lunrjs.com) 
+--->
 ---
 
 Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
