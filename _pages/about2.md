@@ -3,9 +3,9 @@ permalink: /about2/
 title: "About2"
 excerpt: "Get to know us"
 classes: wide
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya Telivigala">
----
 
+---
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya Telivigala">
 <style>
 .emphasis {
   font-size: 120%;
