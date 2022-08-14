@@ -1,0 +1,92 @@
+I"`
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/portfolio_feature.png" alt="portfolio" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">A sample of past realisations</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Layout, posters, covers, collages and more</p>
+
+            </div>
+          
+
+          
+            <p><a href="/portfolio/" class="btn btn--primary">Learn more</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/about_feature.png" alt="About" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Get to know us</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Versatility and attention to detail combined with a vast range of interests</p>
+
+            </div>
+          
+
+          
+            <p><a href="/about/" class="btn btn--primary">Learn more</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/blog_feature.png" alt="Blog" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Musings</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Occasional reflections on the process behind a piece as well as on roleplaying games and worldbuilding</p>
+
+            </div>
+          
+
+          
+            <p><a href="/blog/" class="btn btn--primary">Learn more</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+:ET

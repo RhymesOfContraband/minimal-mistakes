@@ -4,11 +4,13 @@ title: "About2"
 excerpt: "Get to know us"
 classes: wide
 ---
-`.emphasis {
+<style>
+.emphasis {
   font-size: 120%;
-}`
+}
+</style>
 
-Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with  `<span class="emphasis"> **text** and **texture**.</span>`.
+Available for all kinds of work ranging from labels to posters and magazines, we strive when playing with  <span class="emphasis"> **text** and **texture**.</span>{:.language-html}
 
 
 ## Notable Features
