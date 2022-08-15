@@ -6,13 +6,13 @@ var store = [{
         "teaser": "/assets/images/Banner4.jpg"
       },{
         "title": "Collages",
-        "excerpt":"      A set of fictional book collages in the style of French publishing houses.   More text                                                                                          Swedish ice witch.       More text                                                                                          Laurens Reael.       More text                                                                                          Jan Coen.       ","categories": [],
+        "excerpt":"Who knew a girl from Dalarna, Sweden, painted in 1861 by Gottfrid Virgin, was in fact an ice witch. Diomedes as depicted by Johann Heinrich Wilhelm Tischbein, and his tired counterpart. Laurens Reael, Governor-General of the Dutch East Indies between 1616 and 1619, was stationed in the Maluku Islands and...","categories": [],
         "tags": [],
         "url": "/portfolio/collages/",
         "teaser": "/assets/images/Banner4.jpg"
       },{
-        "title": "An exercise in covers",
-        "excerpt":"      A set of fictional book covers in the style of French publishing houses.   More text                                                                                                                                                                                                                                                  Fictional book covers in the style of French publishing houses.       More text  ","categories": [],
+        "title": "Layout",
+        "excerpt":"A proof of concept for an academic journal with imperishable words. Look at 580 x 300 getting some love. A proof of concept for an academic journal with imperishable words. Look at 580 x 300 getting some love. Laurens Reael, Governor-General of the Dutch East Indies between 1616 and 1619,...","categories": [],
         "tags": [],
         "url": "/portfolio/layout/",
         "teaser": "/assets/images/Banner4.jpg"
