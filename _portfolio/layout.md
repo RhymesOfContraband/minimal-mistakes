@@ -10,7 +10,15 @@ sidebar:
     image_alt: ""
     text: "A very small sample of layout work."
 classes: wide ; text-center
-
+gallery:
+  - url: /assets/images/Portfolio/layout/nuees-2.jpg
+    image_path: /assets/images/Portfolio/layout/nuees-1.jpg
+    alt: "A fac simile of an investigation report"
+    title: ""
+  - url: /assets/images/Portfolio/nuees-2.jpg
+    image_path: /assets/images/Portfolio/layout/nuees-2.jpg
+    alt: "The following of the previous image"
+    title: ""
 ---
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Portfolio/layout/capital.jpg){: .align-center }
@@ -27,14 +35,15 @@ A proof of concept for an academic journal with imperishable words.
 
 <figure class="align-center half mfp-image">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Portfolio/layout/capital.jpg" alt="">
-  <figcaption>Look at 580 x 300 getting some love.</figcaption>
 </figure>
 ---
 
-{% include gallery id="gallery3" caption="" %}
-Laurens Reael, Governor-General of the Dutch East Indies between 1616 and 1619, was stationed in the *Maluku* Islands and oversaw the affairs of the company and the relations and clashes with the Spanish and the English, before falling out of grace with the directors of the company. The original portrait, painted shortly after his return to the Netherlands, only displays wealth and stature. The collage corrects this by incorporating the landscape of *Ternate*, where the VOC headquarters were located, local flora and fauna and the famed nutmeg which brought so much wealth to the Netherlands.
+{% include gallery caption="" %}
+This fac simile of an investigation report serves as inspiration for how to conceive and present a mystery and a trail of loose ends to tie in the game [*Apotheosis Janitors*](https://wendiy.itch.io/apotheosis-janitors), made in collaboration with [wendi yu](https://twitter.com/wen_di_yu) who wrote it.
 
 ---
 
-{% include gallery id="gallery4" caption="" %}
-Jan Pieterszoon Coen succeeded Laurens Reael as Governor-General of the Dutch East Indies and proceeded to murder and ruthlessly exploit the inhabitants of the *Maluku* Islands and the *Banda* Island in particular, only area of the world where the prized nutmeg was produced. Here too, nutmeg takes its place in the background while Coen is wrapped in the landscape of *Ambo*n (an island from the archipelago), defaced by the blood he spilled.
+<figure class="align-center half mfp-image">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Portfolio/layout/woundtable.jpg" alt="">
+</figure>
+A quick wound table on which to roll some dice to see where a character gets hurts.
