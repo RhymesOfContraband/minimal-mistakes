@@ -15,7 +15,7 @@ gallery:
     image_path: /assets/images/Portfolio/layout/nuees-1.jpg
     alt: "A fac simile of an investigation report"
     title: ""
-  - url: /assets/images/Portfolio/nuees-2.jpg
+  - url: /assets/images/Portfolio/layout/nuees-2.jpg
     image_path: /assets/images/Portfolio/layout/nuees-2.jpg
     alt: "The following of the previous image"
     title: ""
