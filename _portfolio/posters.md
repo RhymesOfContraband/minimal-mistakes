@@ -15,7 +15,7 @@ gallery:
   - url: /assets/images/Portfolio/posters/affiche-jazz.jpg
     image_path: assets/images/Portfolio/posters/affiche-jazz.jpg
     alt: "A poster for a fictitious jazz festival"
-  - url: /assets/images/Portfolio/posters/agorhaaa.jpg
+  - url: /assets/images/Portfolio/posters/agorhaa.jpg
     image_path: assets/images/Portfolio/posters/aghoraa.jpg
     alt: "A flyer hinting at a techno party in ancient Greece"
   - url: "https://contrabandrimer.itch.io/weeds-in-the-cracks"
