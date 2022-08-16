@@ -2,7 +2,7 @@
 title: "Flyers & Posters"
 excerpt: "Put on wall or in hands"
 header:
-  image: /assets/images/Banner4.png
+  image: /assets/images/Banner4.jpg
   teaser: /assets/images/Banner4.jpg
 sidebar:
   - title: ""
@@ -12,20 +12,20 @@ sidebar:
 
 gallery:
 
-  - url: /assets/images/Portfolio/posters/affiche-jazz.png
-    image_path: assets/images/Portfolio/posters/affiche-jazz.png
+  - url: /assets/images/Portfolio/posters/affiche-jazz.jpg
+    image_path: assets/images/Portfolio/posters/affiche-jazz.jpg
     alt: "A poster for a fictitious jazz festival"
-  - url: /assets/images/Portfolio/posters/agorhaaa.png
-    image_path: assets/images/Portfolio/posters/aghoraa.png
+  - url: /assets/images/Portfolio/posters/agorhaaa.jpg
+    image_path: assets/images/Portfolio/posters/aghoraa.jpg
     alt: "A flyer hinting at a techno party in ancient Greece"
   - url: "https://contrabandrimer.itch.io/weeds-in-the-cracks"
-    image_path: assets/images/Portfolio/posters/grenada-fruit.png
+    image_path: assets/images/Portfolio/posters/grenada-fruit.jpg
     alt: "A poster based on protest imagery with a brandished pomegranate"
-  - url: /assets/images/Portfolio/posters/poster-night-club.png
-    image_path: assets/images/Portfolio/posters/poster-night-club.png
+  - url: /assets/images/Portfolio/posters/poster-night-club.jpg
+    image_path: assets/images/Portfolio/posters/poster-night-club.jpg
     alt: "A poster showing a cocktail surrounded by lights above a night club logo"
-  - url: /assets/images/Portfolio/posters/poster-campeador.png
-    image_path: assets/images/Portfolio/posters/poster-campeador.png
+  - url: /assets/images/Portfolio/posters/poster-campeador.jpg
+    image_path: assets/images/Portfolio/posters/poster-campeador.jpg
     alt: "A fictitious and ominous corporate poster"
 
 ---

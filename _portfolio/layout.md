@@ -11,12 +11,12 @@ sidebar:
     text: "A very small sample of layout work."
 classes: wide ; text-center
 gallery:
-  - url: /assets/images/Portfolio/layout/nuees-2.jpg
-    image_path: /assets/images/Portfolio/layout/nuees-1.jpg
+  - url: /assets/images/Portfolio/layout/nuees.jpg
+    image_path: /assets/images/Portfolio/layout/nuees.jpg
     alt: "A fac simile of an investigation report"
     title: ""
-  - url: /assets/images/Portfolio/layout/nuees-2.jpg
-    image_path: /assets/images/Portfolio/layout/nuees-2.jpg
+  - url: /assets/images/Portfolio/layout/nuees-1.jpg
+    image_path: /assets/images/Portfolio/layout/nuees-1.jpg
     alt: "The following of the previous image"
     title: ""
 ---
