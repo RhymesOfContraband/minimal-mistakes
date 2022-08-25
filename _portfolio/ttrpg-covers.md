@@ -1,6 +1,6 @@
 ---
-title: "An exercise in covers"
-excerpt: "null."
+title: "Game covers"
+excerpt: "Most have yet to exist."
 header:
   image: /assets/images/Banner4.jpg
   teaser: /assets/images/Banner4.jpg
@@ -13,32 +13,25 @@ sidebar:
     text: "***"
 gallery:
 
-  - url: /assets/images/Portfolio/covers/eclipses_old_roc.jpg
-    image_path: assets/images/Portfolio/covers/eclipses_old_roc.jpg
-    alt: "A novel"
-  - url: /assets/images/Portfolio/covers/eclipses_roc.jpg
-    image_path: assets/images/Portfolio/covers/eclipses_roc.jpg
-    alt: "A modernised version of the previous novel"
-  - url: /assets/images/Portfolio/covers/halot_roc.jpg
-    image_path: assets/images/Portfolio/covers/halot_roc.jpg
-    alt: "A novel"
-  - url: /assets/images/Portfolio/covers/inquiry_roc.jpg
-    image_path: assets/images/Portfolio/covers/inquiry_roc.jpg
-    alt: "A history and ethnology study"
-  - url: /assets/images/Portfolio/covers/ombromane_roc.jpg
-    image_path: assets/images/Portfolio/covers/ombromane_roc.jpg
-    alt: "A novel"
-  - url: /assets/images/Portfolio/covers/recueil_roc.jpg
-    image_path: assets/images/Portfolio/covers/recueil_roc.jpg
-    alt: "A poetry collection"
+  - url: /assets/images/Portfolio/covers/adrift-roc.jpg
+    image_path: assets/images/Portfolio/covers/adrift-roc.jpg
+    alt: "A TTRPG cover depicting outer space"
+  - url: /assets/images/Portfolio/covers/amidst-roc.jpg
+    image_path: assets/images/Portfolio/covers/amidst-roc.jpg
+    alt: "A TTRPG cover with mist escaping a mysterious stone door"
+  - url: /assets/images/Portfolio/covers/flare-roc.jpg
+    image_path: assets/images/Portfolio/covers/flare-roc.jpg
+    alt: "A cover with green lights tracing the silhouette of a city from above"
+  - url: /assets/images/Portfolio/covers/impact-roc.jpg
+    image_path: assets/images/Portfolio/covers/impact-roc.jpg
+    alt: "A TTRPG cover with a central crater intermingled with pure shapes"
+  - url: /assets/images/Portfolio/covers/orbital-roc.jpg
+    image_path: assets/images/Portfolio/covers/orbital-roc.jpg
+    alt: "A TTRPG cover with the grey rough surface of a planet and a red river above"
+
+#TO ADD: CAMPEADOR
 ---
-<figure>
-  <img src="/assets/images/Portfolio/covers/covers_roc.jpg" alt="A set of fictional book covers in the style of French publishing houses">
-  <figcaption>A set of fictional book covers in the style of French publishing houses.</figcaption>
-</figure>
 
-More text
+{% include gallery caption="" %}
 
-{% include gallery caption="Fictional book covers in the style of French publishing houses." %}
-
-More text
+These covers sprung from experiments and stand as doors to potential games. 
