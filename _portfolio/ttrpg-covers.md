@@ -1,5 +1,5 @@
 ---
-title: "Game covers"
+title: "Game covers-ttrpg"
 excerpt: "Most have yet to exist."
 header:
   image: /assets/images/Banner4.jpg
@@ -13,20 +13,20 @@ sidebar:
     text: "***"
 gallery:
 
-  - url: /assets/images/Portfolio/covers/adrift-roc.jpg
-    image_path: assets/images/Portfolio/covers/adrift-roc.jpg
+  - url: /assets/images/Portfolio/covers-ttrpg/adrift-roc.jpg
+    image_path: assets/images/Portfolio/covers-ttrpg/adrift-roc.jpg
     alt: "A TTRPG cover depicting outer space"
-  - url: /assets/images/Portfolio/covers/amidst-roc.jpg
-    image_path: assets/images/Portfolio/covers/amidst-roc.jpg
+  - url: /assets/images/Portfolio/covers-ttrpg/amidst-roc.jpg
+    image_path: assets/images/Portfolio/covers-ttrpg/amidst-roc.jpg
     alt: "A TTRPG cover with mist escaping a mysterious stone door"
-  - url: /assets/images/Portfolio/covers/flare-roc.jpg
-    image_path: assets/images/Portfolio/covers/flare-roc.jpg
+  - url: /assets/images/Portfolio/covers-ttrpg/flare-roc.jpg
+    image_path: assets/images/Portfolio/covers-ttrpg/flare-roc.jpg
     alt: "A cover with green lights tracing the silhouette of a city from above"
-  - url: /assets/images/Portfolio/covers/impact-roc.jpg
-    image_path: assets/images/Portfolio/covers/impact-roc.jpg
+  - url: /assets/images/Portfolio/covers-ttrpg/impact-roc.jpg
+    image_path: assets/images/Portfolio/covers-ttrpg/impact-roc.jpg
     alt: "A TTRPG cover with a central crater intermingled with pure shapes"
-  - url: /assets/images/Portfolio/covers/orbital-roc.jpg
-    image_path: assets/images/Portfolio/covers/orbital-roc.jpg
+  - url: /assets/images/Portfolio/covers-ttrpg/orbital-roc.jpg
+    image_path: assets/images/Portfolio/covers-ttrpg/orbital-roc.jpg
     alt: "A TTRPG cover with the grey rough surface of a planet and a red river above"
 
 #TO ADD: CAMPEADOR
@@ -34,4 +34,4 @@ gallery:
 
 {% include gallery caption="" %}
 
-These covers sprung from experiments and stand as doors to potential games. 
+These covers sprung from experiments and stand as doors to potential games.

@@ -16,16 +16,16 @@ gallery:
     image_path: assets/images/Portfolio/posters/affiche-jazz.jpg
     alt: "A poster for a fictitious jazz festival"
   - url: /assets/images/Portfolio/posters/agorhaa.jpg
-    image_path: assets/images/Portfolio/posters/aghoraa.jpg
+    image_path: assets/images/Portfolio/posters/agorhaa.jpg
     alt: "A flyer hinting at a techno party in ancient Greece"
-  - url: "https://contrabandrimer.itch.io/weeds-in-the-cracks"
+  - url: "assets/images/Portfolio/posters/grenada-fruit.jpg"
     image_path: assets/images/Portfolio/posters/grenada-fruit.jpg
     alt: "A poster based on protest imagery with a brandished pomegranate"
   - url: /assets/images/Portfolio/posters/poster-night-club.jpg
     image_path: assets/images/Portfolio/posters/poster-night-club.jpg
     alt: "A poster showing a cocktail surrounded by lights above a night club logo"
-  - url: /assets/images/Portfolio/posters/poster-campeador.jpg
-    image_path: assets/images/Portfolio/posters/poster-campeador.jpg
+  - url: /assets/images/Portfolio/posters/poster-campeador-1.jpg
+    image_path: assets/images/Portfolio/posters/poster-campeador-1.jpg
     alt: "A fictitious and ominous corporate poster"
 
 ---
