@@ -3,7 +3,7 @@ title: "Flyers & Posters"
 excerpt: "Put on wall or in hands"
 header:
   #image:
-  teaser: /assets/images/poster-sample.jpg
+  teaser: /assets/images/portfolio/poster-sample.jpg
 #sidebar:
   - title: ""
     image: http://placehold.it/350x250

@@ -3,7 +3,7 @@ title: "An exercise in book and music album covers"
 excerpt: ""
 header:
   #image:
-  teaser: /assets/images/book-covers-sample
+  teaser: /assets/images/portfolio/book-covers-sample
 #sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

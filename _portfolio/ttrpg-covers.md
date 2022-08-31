@@ -3,7 +3,7 @@ title: "Game covers"
 excerpt: "Most have yet to exist."
 header:
   #image:
-  teaser: /assets/images/ttrpg-covers-sample.jpg
+  teaser: /assets/images/portfolio/ttrpg-covers-sample.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

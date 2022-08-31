@@ -4,7 +4,7 @@ excerpt: "Put on wall or in hands"
 permalink: /posters2/
 header:
   #image:
-  teaser: /assets/images/poster-sample.jpg
+  teaser: /assets/images/portfolio/poster-sample.jpg
 layout: splash
 
 gallery:
