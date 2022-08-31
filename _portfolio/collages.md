@@ -2,7 +2,7 @@
 title: "Collages"
 excerpt: "Public domain put to good use"
 header:
-  #image:
+  image: null
   teaser: /assets/images/portfolio/collages-sample
 #sidebar:
   - title: "Personal project"
@@ -12,39 +12,39 @@ header:
 classes: wide ; text-center
 
 gallery:
-  - url: /assets/images/Portfolio/collages/by-gottfrid-virgin.jpg
-    image_path: /assets/images/Portfolio/collages/by-gottfrid-virgin.jpg
+  - url: /assets/images/portfolio/collages/by-gottfrid-virgin.jpg
+    image_path: /assets/images/portfolio/collages/by-gottfrid-virgin.jpg
     alt: "Oil painting of a Swedish woman from 19th century"
     title: "Girl from Dalarna, 1861, Gottfrid Virgin"
-  - url: /assets/images/Portfolio/collages/ice-witch.jpg
-    image_path: /assets/images/Portfolio/collages/ice-witch.jpg
+  - url: /assets/images/portfolio/collages/ice-witch.jpg
+    image_path: /assets/images/portfolio/collages/ice-witch.jpg
     alt: "A collage based on the previous picture"
     title: "Ice Witch"
 gallery2:
-      - url: /assets/images/Portfolio/collages/tischbein-diomedes.jpg
-        image_path: /assets/images/Portfolio/collages/tischbein-diomedes.jpg
+      - url: /assets/images/portfolio/collages/tischbein-diomedes.jpg
+        image_path: /assets/images/portfolio/collages/tischbein-diomedes.jpg
         alt: "An oil painting of a rich and murderous Dutch man in the 17th century"
         title: "Diomedes, bust and shoulders, Johann Heinrich Wilhelm Tischbein, MET Museum"
-      - url: /assets/images/Portfolio/collages/twice-weary.jpg
-        image_path: /assets/images/Portfolio/collages/twice-weary.jpg
+      - url: /assets/images/portfolio/collages/twice-weary.jpg
+        image_path: /assets/images/portfolio/collages/twice-weary.jpg
         alt: "A collage based on the previous picture"
         title: "Twice weary"
 gallery3:
-  - url: /assets/images/Portfolio/collages/laurens-reael-by-cornelis-van-der-voort.jpg
-    image_path: /assets/images/Portfolio/collages/laurens-reael-by-cornelis-van-der-voort.jpg
+  - url: /assets/images/portfolio/collages/laurens-reael-by-cornelis-van-der-voort.jpg
+    image_path: /assets/images/portfolio/collages/laurens-reael-by-cornelis-van-der-voort.jpg
     alt: "An oil painting of a rich Dutch man in the 17th century"
     title: "Portret van Laurens Reael, Cornelis van der Voort, ca. 1620, Rijksmuseum"
-  - url: /assets/images/Portfolio/collages/laurens-reael-redux.jpg
-    image_path: /assets/images/Portfolio/collages/laurens-reael-redux.jpg
+  - url: /assets/images/portfolio/collages/laurens-reael-redux.jpg
+    image_path: /assets/images/portfolio/collages/laurens-reael-redux.jpg
     alt: "A collage based on the previous picture"
     title: "Nutmeg and ships"
 gallery4:
-  - url: /assets/images/Portfolio/collages/jan-coen-by-jacob-waben.jpg
-    image_path: /assets/images/Portfolio/collages/jan-coen-by-jacob-waben.jpg
+  - url: /assets/images/portfolio/collages/jan-coen-by-jacob-waben.jpg
+    image_path: /assets/images/portfolio/collages/jan-coen-by-jacob-waben.jpg
     alt: "An oil painting of a rich and murderous Dutch man in the 17th century"
     title: "Jan Pieterszoon Coen by Jacob Waben, Rijksmuseum"
-  - url: /assets/images/Portfolio/collages/jan-coen-redux.jpg
-    image_path: /assets/images/Portfolio/collages/jan-coen-redux.jpg
+  - url: /assets/images/portfolio/collages/jan-coen-redux.jpg
+    image_path: /assets/images/portfolio/collages/jan-coen-redux.jpg
     alt: "A collage based on the previous picture"
     title: "Moluccas' Blood"
 
