@@ -4,13 +4,7 @@ excerpt: ""
 header:
   image:
   teaser: /assets/images/portfolio/book-covers-sample
-#sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Role description"
-  - title: "Title"
-    text: "***"
+
 gallery:
 
   - url: /assets/images/portfolio/covers/eclipses_old_roc.png

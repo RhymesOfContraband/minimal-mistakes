@@ -2,9 +2,9 @@
 title: "Collages"
 excerpt: "Public domain put to good use"
 header:
-  image: null
+  image:
   teaser: /assets/images/portfolio/collages-sample
-#sidebar:
+sidebar:
   - title: "Personal project"
     image:
     image_alt: ""
