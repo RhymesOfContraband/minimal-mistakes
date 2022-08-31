@@ -2,8 +2,8 @@
 title: "Flyers & Posters"
 excerpt: "Put on wall or in hands"
 header:
-  image:
-  teaser: /assets/images/poster-sample
+  #image:
+  teaser: /assets/images/poster-sample.jpg
 #sidebar:
   - title: ""
     image: http://placehold.it/350x250

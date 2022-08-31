@@ -2,7 +2,7 @@
 title: "An exercise in book and music album covers"
 excerpt: ""
 header:
-  image:
+  #image:
   teaser: /assets/images/book-covers-sample
 #sidebar:
   - title: "Role"
