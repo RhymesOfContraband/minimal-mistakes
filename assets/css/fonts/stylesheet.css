@@ -26,3 +26,15 @@
        url('/roc/assets/css/fonts/akaya-telivigala-v22-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('/roc/assets/css/fonts/akaya-telivigala-v22-latin-regular.svg#AkayaTelivigala') format('svg'); /* Legacy iOS */
 }
+
+/* Qualion */
+
+@font-face {
+    font-family: 'qualion_rounddemi_bold';
+    src: url('/qualionround-demibold-webfont.woff2') format('woff2'),
+         url('/qualionround-demibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
