@@ -4,7 +4,7 @@ title: "About"
 excerpt: "Get to know us"
 ---
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya Telivigala|Bungee Shade">
-<link rel="stylesheet" href="/assets/css/fonts/stylesheet•css" type="text/css">
+<link rel="stylesheet" href="/roc/assets/css/fonts/stylesheet•css" type="text/css">
 
 
 <style>
