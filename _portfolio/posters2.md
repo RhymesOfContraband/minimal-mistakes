@@ -3,8 +3,8 @@ title: "Flyers & Posters"
 excerpt: "Put on wall or in hands"
 permalink: /posters2/
 header:
-  image: /assets/images/Banner4.jpg
-  teaser: /assets/images/Banner4.jpg
+  image:
+  teaser: /assets/images/poster-sample
 layout: splash
 
 gallery:

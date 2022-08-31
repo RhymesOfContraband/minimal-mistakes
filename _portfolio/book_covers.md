@@ -1,10 +1,10 @@
 ---
-title: "An exercise in covers"
-excerpt: "null."
+title: "An exercise in book and music album covers"
+excerpt: ""
 header:
-  image: /assets/images/Banner4.png
-  teaser: /assets/images/Banner4.jpg
-sidebar:
+  image:
+  teaser: /assets/images/book-covers-sample
+#sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"

@@ -2,7 +2,7 @@
 title: "Layout"
 excerpt: "Words in spaaaaace"
 header:
-  image: /assets/images/Banner4.png
+  image:
   teaser: /assets/images/Banner4.jpg
 sidebar:
   - title: "Personal project"

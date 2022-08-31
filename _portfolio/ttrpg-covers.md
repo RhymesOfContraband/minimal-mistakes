@@ -1,9 +1,9 @@
 ---
-title: "Game covers-ttrpg"
+title: "Game covers"
 excerpt: "Most have yet to exist."
 header:
-  image: /assets/images/Banner4.jpg
-  teaser: /assets/images/Banner4.jpg
+  image:
+  teaser: /assets/images/ttrpg-covers-sample
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
