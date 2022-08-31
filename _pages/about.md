@@ -4,15 +4,19 @@ title: "About"
 excerpt: "Get to know us"
 ---
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya Telivigala|Bungee Shade">
+<link rel="stylesheet" href="http://localhost:4000/assets/css/fonts/stylesheet.css" type="text/css">
+
+
 <style>
 .emphasis {
-    font-size: 120%;
+    font-size: 150%;
     font-family: Akaya Telivigala;
     color: #EE8322;
 }
 r {  
-  font-family: Bungee Shade;
-  color: #EE8322
+  font-family: 'rubik-markerhatchregular';
+  color: #EE8322;
+  font-size: 150%;
 }
 big {
     font-size: 120%;    
@@ -20,19 +24,10 @@ big {
 
 </style>
 
-Available for all kinds of work ranging from labels to <big>posters and magazines</big>, we strive when playing with <span class="emphasis"> **text** </span> and **<r>texture</r>**.
+Available for all kinds of work ranging from product labels to <big>posters</big> and <big>magazines</big>, we strive when playing with <span class="emphasis"> **text** </span> and <r>texture</r>.
 
 
-## Notable Features
 
-
-[Get in touch!](mailto:rhymesofcontraband@proton.me){: .btn .btn--primary .btn--x-large .align-center &--b-center}
-{: .text-center}
 
 [Get in touch!](mailto:rhymesofcontraband@proton.me){: .btn .btn--primary .btn--x-large}
 {: .text-center}
-
-
-
-
----

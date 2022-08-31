@@ -1,0 +1,31 @@
+I"Ö<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya Telivigala|Bungee Shade" />
+
+<link rel="stylesheet" href="http://localhost:4000/assets/css/fonts/stylesheet.css" type="text/css" />
+
+<style>
+.emphasis {
+    font-size: 120%;
+    font-family: Akaya Telivigala;
+    color: #EE8322;
+}
+r {  
+  font-family: 'rubik-markerhatchregular';
+  color: #EE8322
+  font-size: 140%;
+}
+big {
+    font-size: 120%;    
+}
+
+</style>
+
+<p>Available for all kinds of work ranging from labels to <big>posters and magazines</big>, we strive when playing with <span class="emphasis"> <strong>text</strong> </span> and <strong><r>texture</r></strong>.</p>
+
+<h2 id="notable-features">Notable Features</h2>
+
+<p class="text-center"><a href="mailto:rhymesofcontraband@proton.me" class="btn btn--primary btn--x-large align-center">Get in touch!</a></p>
+
+<p class="text-center"><a href="mailto:rhymesofcontraband@proton.me" class="btn btn--primary btn--x-large">Get in touch!</a></p>
+
+<hr />
+:ET

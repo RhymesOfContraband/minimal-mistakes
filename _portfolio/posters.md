@@ -32,7 +32,7 @@ gallery:
 
 {% include gallery caption="A set of posters of all kinds." %}
 
-While the first poster shows the common features of the summer jazz festival family (and we're sure we would enjoy seeing some of those bands in real life), the second one sort of happened and let us wonder what would happen when you had a sound system to an ancient Greek chorus.
+While the first poster shows the common features of the summer jazz festival family (and we're sure we would enjoy seeing some of those bands in real life), the second one sort of happened and let us wonder what would happen when you add a sound system to an ancient Greek chorus.
 
 The pomegranate poster is a reference to the guerrilla gardening movement and a play on words on the Spanish and French names for the pomegranate (*granada and grenade*). It was made to go along with our game, [*Weeds in the cracks*](https://contrabandrimer.itch.io/weeds-in-the-cracks), a submission to [wendi yu's](https://twitter.com/wen_di_yu) MwM jam and based on the same framework as her game, [*here, there, be monsters!*](https://wendiy.itch.io/here-there-be-monsters)
 

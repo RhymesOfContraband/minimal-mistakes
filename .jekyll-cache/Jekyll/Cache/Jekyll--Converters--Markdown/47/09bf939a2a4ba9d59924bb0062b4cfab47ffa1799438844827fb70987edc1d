@@ -1,0 +1,83 @@
+I"y<style>
+/* Create two equal columns that floats next to each other */
+.row {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+<strong>EN</strong><br />
+
+While the first poster shows the common features of the summer jazz festival family (and we’re sure we would enjoy seeing some of those bands in real life), the second one sort of happened and let us wonder what would happen when you add a sound system to an ancient Greek chorus.<br />
+
+<br />
+
+The pomegranate poster is a reference to the guerrilla gardening movement and a play on words on the Spanish and French names for the pomegranate (<em>granada and grenade</em>). It was made to go along with our game, <a href="https://contrabandrimer.itch.io/weeds-in-the-cracks"><em>Weeds in the cracks</em></a>, a submission to <a href="https://twitter.com/wen_di_yu">wendi yu’s</a> MwM jam and based on the same framework as her game, <a href="https://wendiy.itch.io/here-there-be-monsters"><em>here, there, be monsters!</em></a>.<br />
+
+<br />
+
+The cocktail poster was made on commission for a private party hosted at a club with a less generic name that the one displayed.<br />
+
+<br />
+
+<em>“The means to know”</em> is the motto of the Campeador company, a mega consortium specialized in <del>pillaging</del> retrieving critical artifacts and information in space. It is a critical part of an upcoming module for the Mothership roleplaying game, <em>Operation Breach</em>, written by <a href="https://weirdwonder.itch.io/">Amanda P.</a> with layout by ourselves.
+    </div>
+  <div class="column">
+<strong>FR</strong><br />
+La version française du texte de la colonne de gauche se trouve dans la colonne de droite
+  </div>
+</div>
+
+<figure class="third ">
+  
+    
+      <a href="/assets/images/Portfolio/posters/affiche-jazz.jpg">
+          <img src="/assets/images/Portfolio/posters/affiche-jazz.jpg" alt="A poster for a fictitious jazz festival" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/Portfolio/posters/agorhaa.jpg">
+          <img src="/assets/images/Portfolio/posters/agorhaa.jpg" alt="A flyer hinting at a techno party in ancient Greece" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/Portfolio/posters/grenada-fruit.jpg">
+          <img src="/assets/images/Portfolio/posters/grenada-fruit.jpg" alt="A poster based on protest imagery with a brandished pomegranate" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/Portfolio/posters/poster-night-club.jpg">
+          <img src="/assets/images/Portfolio/posters/poster-night-club.jpg" alt="A poster showing a cocktail surrounded by lights above a night club logo" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/Portfolio/posters/poster-campeador-1.jpg">
+          <img src="/assets/images/Portfolio/posters/poster-campeador-1.jpg" alt="A fictitious and ominous corporate poster" />
+      </a>
+    
+  
+  
+    <figcaption>A set of posters of all kinds.
+</figcaption>
+  
+</figure>
+
+<p>The pomegranate poster is a reference to the guerrilla gardening movement and a play on words on the Spanish and French names for the pomegranate (<em>granada and grenade</em>). It was made to go along with our game, <a href="https://contrabandrimer.itch.io/weeds-in-the-cracks"><em>Weeds in the cracks</em></a>, a submission to <a href="https://twitter.com/wen_di_yu">wendi yu’s</a> MwM jam and based on the same framework as her game, <a href="https://wendiy.itch.io/here-there-be-monsters"><em>here, there, be monsters!</em></a>.\</p>
+:ET

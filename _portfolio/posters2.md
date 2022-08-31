@@ -5,11 +5,8 @@ permalink: /posters2/
 header:
   image: /assets/images/Banner4.jpg
   teaser: /assets/images/Banner4.jpg
-sidebar:
-  - title: ""
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: ""
+layout: splash
+
 gallery:
 
   - url: /assets/images/Portfolio/posters/affiche-jazz.jpg
@@ -50,19 +47,26 @@ gallery:
 </style>
 
 <div class="row">
-  <div class="column">
-    <h2>EN</h2>
-    While the first poster shows the common features of the summer jazz festival family (and we're sure we would enjoy seeing some of those bands in real life), the second one sort of happened and let us wonder what would happen when you had a sound system to an ancient Greek chorus.
+  <div class="column" markdown="span">
+**EN**\\
 
-    The pomegranate poster is a reference to the guerrilla gardening movement and a play on words on the Spanish and French names for the pomegranate (*granada and grenade*). It was made to go along with our game, [*Weeds in the cracks*](https://contrabandrimer.itch.io/weeds-in-the-cracks), a submission to [wendi yu's](https://twitter.com/wen_di_yu) MwM jam and based on the same framework as her game, [*here, there, be monsters!*](https://wendiy.itch.io/here-there-be-monsters)
+While the first poster shows the common features of the summer jazz festival family (and we're sure we would enjoy seeing some of those bands in real life), the second one sort of happened and let us wonder what would happen when you add a sound system to an ancient Greek chorus.\\
 
-    The cocktail poster was made on commission for a private party hosted at a club with a less generic name that the one displayed.
+\\
 
-    *"The means to know"* is the motto of the Campeador company, a mega consortium specialized in ~~pillaging~~ retrieving critical artifacts and information in space. It is a critical part of an upcoming module for the Mothership roleplaying game, *Operation Breach*, written by [Amanda P.](https://weirdwonder.itch.io/) with layout by ourselves.
-  </div>
-  <div class="column">
-    ##FR##
-    La version française du texte de la colonne de gauche se trouve dans la colonne de droite
+The pomegranate poster is a reference to the guerrilla gardening movement and a play on words on the Spanish and French names for the pomegranate (*granada and grenade*). It was made to go along with our game, [*Weeds in the cracks*](https://contrabandrimer.itch.io/weeds-in-the-cracks), a submission to [wendi yu's](https://twitter.com/wen_di_yu) MwM jam and based on the same framework as her game, [*here, there, be monsters!*](https://wendiy.itch.io/here-there-be-monsters).\\
+
+\\
+
+The cocktail poster was made on commission for a private party hosted at a club with a less generic name that the one displayed.\\
+
+\\
+
+*"The means to know"* is the motto of the Campeador company, a mega consortium specialized in ~~pillaging~~ retrieving critical artifacts and information in space. It is a critical part of an upcoming module for the Mothership roleplaying game, *Operation Breach*, written by [Amanda P.](https://weirdwonder.itch.io/) with layout by ourselves.
+    </div>
+  <div class="column" markdown="span">
+**FR**\\
+La version française du texte de la colonne de gauche se trouve dans la colonne de droite
   </div>
 </div>
 
@@ -70,12 +74,4 @@ gallery:
 
 
 
-<div>
-    <div id="column1" style="float:left; margin:0; width:33%;" markdown="1">
-    small left column in Markdown format
-    </div>
-
-    <div id="column2" style="float:left; margin:0; width:67%;" markdown="1">
-    long right column in Markdown format happily complying
-    </div>
-</div>
+The pomegranate poster is a reference to the guerrilla gardening movement and a play on words on the Spanish and French names for the pomegranate (*granada and grenade*). It was made to go along with our game, [*Weeds in the cracks*](https://contrabandrimer.itch.io/weeds-in-the-cracks), a submission to [wendi yu's](https://twitter.com/wen_di_yu) MwM jam and based on the same framework as her game, [*here, there, be monsters!*](https://wendiy.itch.io/here-there-be-monsters).\\

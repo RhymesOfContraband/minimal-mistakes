@@ -1,0 +1,45 @@
+I"¬<p><img src="http://localhost:4000/assets/images/Portfolio/layout/capital.jpg" alt="image-center" class="align-center" />
+A proof of concept for an academic journal with imperishable words.</p>
+
+<hr />
+
+<figure style="width:60%" class="align-center">
+  <img src="http://localhost:4000/assets/images/Portfolio/layout/capital.jpg" alt="" />
+  <figcaption>Look at 580 x 300 getting some love.</figcaption>
+</figure>
+<p>A proof of concept for an academic journal with imperishable words.</p>
+
+<figure class="align-center half mfp-image">
+  <img src="http://localhost:4000/assets/images/Portfolio/layout/capital.jpg" alt="" />
+</figure>
+<hr />
+
+<figure class="half ">
+  
+    
+      <a href="/assets/images/Portfolio/layout/nuees.jpg" title="">
+          <img src="/assets/images/Portfolio/layout/nuees.jpg" alt="A fac simile of an investigation report" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/Portfolio/layout/nuees-1.jpg" title="">
+          <img src="/assets/images/Portfolio/layout/nuees-1.jpg" alt="The following of the previous image" />
+      </a>
+    
+  
+  
+    <figcaption>
+</figcaption>
+  
+</figure>
+
+<p>This fac simile of an investigation report serves as inspiration for how to conceive and present a mystery and a trail of loose ends to tie in the game <a href="https://wendiy.itch.io/apotheosis-janitors"><em>Apotheosis Janitors</em></a>, made in collaboration with <a href="https://twitter.com/wen_di_yu">wendi yu</a> who wrote it.</p>
+
+<hr />
+
+<figure class="align-center half mfp-image">
+  <img src="http://localhost:4000/assets/images/Portfolio/layout/woundtable.jpg" alt="" />
+</figure>
+<p>A quick wound table on which to roll some dice to see where a character gets hurts.</p>
+:ET
