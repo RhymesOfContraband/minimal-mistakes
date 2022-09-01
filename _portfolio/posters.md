@@ -73,9 +73,8 @@ Le poster à la grenade brandie fait référence au mouvement de *guerilla garde
 
 {% include gallery caption="" %}
 
-{% include gallery id="gallery2" caption="" %}
+{% include gallery id="gallery2" layout:"half" caption="" %}{: .align-center}
 
-</style>
 
 <div class="row">
   <div class="column" markdown="span">
@@ -93,7 +92,7 @@ The cocktail poster was made on commission for a private party hosted at a club 
 Le poster au cocktail a été fait sur demande pour une soirée privée organisée par un club au nom moins générique que celui qui y figure.
 
 \\
-
+\\
 *"The means to know"* est le slogan de la firme Campeador, un consortium intergalactique spécialisé dans ~~le pillage~~ la récupération d'informations et d'artefacts de la plus haute importance dans l'espace. Il joue un rôle central dans un module en cours d'écriture pour le jeu de rôle Mothership, *Operation Breach*, par [Amanda P.](https://weirdwonder.itch.io/) et dont nous réalisons la mise en page.
 
   </div>
