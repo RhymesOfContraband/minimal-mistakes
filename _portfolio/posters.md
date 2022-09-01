@@ -50,7 +50,7 @@ gallery2:
 
 <div class="row">
   <div class="column" markdown="span">
-**EN**{: .primary-color}\\
+**EN** {: .orange}\\
 
 While the first poster shows the common features of the summer jazz festival family (and we're sure we would enjoy seeing some of those bands in real life), the second one sort of emerged on its own and let us wonder what would happen when you add a sound system to an ancient Greek chorus.\\
 
@@ -60,12 +60,12 @@ The pomegranate poster is a reference to the guerrilla gardening movement and a 
 
     </div>
   <div class="column" markdown="span">
-**FR**{: .primary}\\
+**FR**{: .orange}\\
 
 La première affiche appartient à la grande famille des festivals de jazz (on assisterait certainement avec plaisir à ces concerts), quand la seconde a émergé spontanément et interroge sur la possible rencontre d'un chœur grec antique et d'un mur de baffles.
 
 \\
-
+\\
 Le poster à la grenade brandie fait référence au mouvement de *guerilla gardening* et joue sur le nom du fruit. Il a été fait pour illustrer notre jeu [*Weeds in the cracks*](https://contrabandrimer.itch.io/weeds-in-the-cracks), une entrée pour la jam de [wendi yu's](https://twitter.com/wen_di_yu), qui repose sur le système de son jeu [*here, there, be monsters!*](https://wendiy.itch.io/here-there-be-monsters).\\
 
   </div>
@@ -73,7 +73,7 @@ Le poster à la grenade brandie fait référence au mouvement de *guerilla garde
 
 {% include gallery caption="" %}
 
-{% include gallery id="gallery2" caption="" %}{: .align-center}
+{% include gallery id="gallery2" layout="half" caption="" %}
 
 
 <div class="row">
