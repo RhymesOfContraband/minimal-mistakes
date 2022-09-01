@@ -8,8 +8,8 @@ header:
     - title: "Personal project"
       image:
       image_alt: ""
-      text: "A set of elusive book covers from our very own and confidential collection."
-      text: "Un ensemble de couvertures de livres introuvables, tirés de notre collection très personnelle."
+      text: "A set of elusive book covers from our very own and confidential collection.
+Un ensemble de couvertures de livres introuvables, tirés de notre collection très personnelle."
 
 gallery:
 

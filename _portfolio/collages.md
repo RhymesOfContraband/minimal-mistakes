@@ -8,7 +8,7 @@ sidebar:
   - title: "Personal project"
     image:
     image_alt: ""
-    text: "A set of collages for their own sake and two for the embryo of a Matrix game centred around the nutmeg trade and colonisation. All original pictures are in the public domain.|Un ensemble de collages dont deux font partie d'un projet de jeu de rôle de style 'Matrix' centré sur le commerce de la noix de muscade et la colonisation. Toutes les images d'origines sont dans le domaine public."
+    text: "A set of collages for their own sake and two for the embryo of a Matrix game centred around the nutmeg trade and colonisation. All original pictures are in the public domain.|Un ensemble de collages dont deux font partie d'un projet de jeu de rôle de style 'Matrix' centré sur le commerce de la noix de muscade et la colonisation. Toutes les images d'origine sont dans le domaine public."
 
 classes: wide ; text-center
 
