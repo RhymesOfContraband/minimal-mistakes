@@ -8,8 +8,9 @@ sidebar:
   - title: "Covers looking for games"
     image:
     image_alt: ""
-    text: "These are the most fleshed out covers from the number that fill our drawers."
-
+    text: "Some of the most fleshed out covers from the number that fill our drawers."
+    text: "Certaines des couvertures de jeux les plus abouties de la pile. "
+classes: wide
 gallery:
 
   - url: /assets/images/portfolio/covers-ttrpg/adrift-roc.jpg

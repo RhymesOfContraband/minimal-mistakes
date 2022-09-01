@@ -9,6 +9,7 @@ sidebar:
     image:
     image_alt: ""
     text: "A very small sample of layout work."
+    text: "Un échantillon de travail de mise en page"
 classes: wide ; text-center
 gallery:
   - url: /assets/images/portfolio/layout/nuees.jpg

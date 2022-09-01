@@ -9,6 +9,7 @@ header:
       image:
       image_alt: ""
       text: "A set of elusive book covers from our very own and confidential collection."
+      text: "Un ensemble de couvertures de livres introuvables, tirés de notre collection très personnelle."
 
 gallery:
 
@@ -31,8 +32,26 @@ gallery:
     image_path: assets/images/portfolio/covers/recueil_roc.png
     alt: "A poetry collection"
 ---
+<style>
+/* Create two equal columns that floats next to each other */
+.row {
+  display: flex;
+}
 
-{% include gallery caption="Fictional book covers in the style of French publishing houses." %}
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+{% include gallery caption="" %}
 
 <div class="row">
   <div class="column" markdown="span">

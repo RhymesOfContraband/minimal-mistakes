@@ -9,6 +9,7 @@ sidebar:
     image:
     image_alt: ""
     text: "To go with the books, a selection of jazz albums rarely found in the wild."
+    text: "Un ensemble d'albums de jazz qu'on trouve difficilement dans la nature, pour accompagner les livres."
 classes: wide
 gallery:
 
