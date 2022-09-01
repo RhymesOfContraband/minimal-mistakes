@@ -5,12 +5,11 @@ header:
   image:
   teaser: /assets/images/portfolio/ttrpg-covers-sample.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Role description"
-  - title: "Title"
-    text: "***"
+  - title: "Covers looking for games"
+    image:
+    image_alt: ""
+    text: "These are the most fleshed out covers from the number that fill our drawers."
+
 gallery:
 
   - url: /assets/images/portfolio/covers-ttrpg/adrift-roc.jpg
@@ -72,9 +71,8 @@ This last cover was made for a small pamphlet adventure, [*Flame and Fortune*](h
 
 La première et la quatrième couvertures proviennent d'expérimentation avec des images de diverses agences spatiales et penchent vers la science-fiction. La seconde combine formes simples et textures pour dessiner une porte tout à la fois inquiétante et attirante. La troisième brouille les lignes entre une ville illuminée et un micro-organisme vus de haut.
 
-
 \\
-
+\\
 Cette dernière couverture a été créée pour illustrer le module de jeu de rôle [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), écrit par notre camarade PanicPillow.
 
   </div>
