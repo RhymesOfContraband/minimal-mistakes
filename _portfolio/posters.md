@@ -73,7 +73,7 @@ Le poster à la grenade brandie fait référence au mouvement de *guerilla garde
 
 {% include gallery caption="" %}
 
-{% include gallery id="gallery2" layout:"half" caption="" %}{: .align-center}
+{% include gallery id="gallery2" layout="half" caption="" %}{: .align-center}
 
 
 <div class="row">
