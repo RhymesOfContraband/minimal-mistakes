@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/about_feature.png
-    alt: "About"
+    alt: "About - À propos"
     title: "Get to know us"
     excerpt: "Versatility and attention to detail combined with a vast range of interests"
     url: "/about/"
@@ -26,8 +26,8 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/blog_feature.png
     alt: "Blog"
-    title: "Musings"
-    excerpt: "Occasional reflections on the process behind a piece as well as on roleplaying games and worldbuilding"
+    title: "Musings - Réflexions"
+    excerpt: "Occasional thoughts on the process behind a piece as well as on roleplaying games and worldbuilding"
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
