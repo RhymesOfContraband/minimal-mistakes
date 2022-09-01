@@ -18,8 +18,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/about_feature.png
-    alt: "About - À propos"
-    title: "Get to know us"
+    alt: "About"
+    title: "Get to know us - Faites connaissance"
     excerpt: "Versatility and attention to detail combined with a vast range of interests"
     url: "/about/"
     btn_class: "btn--primary"
