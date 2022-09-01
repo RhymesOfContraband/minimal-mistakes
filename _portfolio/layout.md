@@ -9,7 +9,7 @@ sidebar:
     image:
     image_alt: ""
     text: "A very small sample of layout work."
-    text: "Un échantillon de travail de mise en page"
+    text: "Un échantillon de travail de mise en page."
 classes: wide ; text-center
 gallery:
   - url: /assets/images/portfolio/layout/nuees.jpg
@@ -22,29 +22,35 @@ gallery:
     title: ""
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/portfolio/layout/capital.jpg){: .align-center }
-A proof of concept for an academic journal with imperishable words.
-
----
 
 <figure style ="width:60%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio/layout/capital.jpg" alt="">
-  <figcaption>Look at 580 x 300 getting some love.</figcaption>
+  <figcaption>.</figcaption>
 </figure>
+**EN**
 A proof of concept for an academic journal with imperishable words.
 
+**FR**
+Un écrit d'actualité étoffe cette preuve de concept dans la phase de réflexion pour un magazine indépendant de sciences humaines.
 
-<figure class="align-center half mfp-image">
+/* <figure class="align-center half mfp-image">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio/layout/capital.jpg" alt="">
-</figure>
+</figure> */
 ---
 
 {% include gallery caption="" %}
-This fac simile of an investigation report serves as inspiration for how to conceive and present a mystery and a trail of loose ends to tie in the game [*Apotheosis Janitors*](https://wendiy.itch.io/apotheosis-janitors), made in collaboration with [wendi yu](https://twitter.com/wen_di_yu) who wrote it.
+**EN**
+This facsimile of an investigation report serves as inspiration for how to conceive and present a mystery and a trail of loose ends to tie in the game [*Apotheosis Janitors*](https://wendiy.itch.io/apotheosis-janitors), made in collaboration with [wendi yu](https://twitter.com/wen_di_yu) who wrote it.
 
+**FR**
+Ce fac-similé d'un rapport d'enquête censuré sert de support d'inspiration pour élaborer et présenter un mystère et les indices qui l'accompagnent et que les joueurs doivent effacer, dans le jeu [*Apotheosis Janitors*](https://wendiy.itch.io/apotheosis-janitors), réalisé en collaboration avec [wendi yu](https://twitter.com/wen_di_yu) qui l'a écrit.
 ---
 
 <figure class="align-center half mfp-image">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio/layout/woundtable.jpg" alt="">
 </figure>
+**EN**
 A quick wound table on which to roll some dice to see where a character gets hurts.
+
+**FR**
+Une simple table de blessure corporelle d'un personnage, selon le résultat des dés.
