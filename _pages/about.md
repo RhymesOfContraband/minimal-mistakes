@@ -27,11 +27,7 @@ or {
 </style>
 
 
-We strive when playing with <span class="emphasis"> **text** </span> and <r>texture</r> and are available for all kind of work:
-
-<or>-</or> Flyers & posters
-<or>-</or> Functional & artistic layout
-<or>-</or> Branding and labels and more
+We strive when playing with <span class="emphasis"> **text** </span> and <r>texture</r> and are available for all your graphical needs.
 
 If you have an idea but are unsure whether we could do it, talk to us about it!
 
@@ -39,9 +35,7 @@ If you have an idea but are unsure whether we could do it, talk to us about it!
 
 ---
 
-<or>-</or> Flyers & posters
-<or>-</or> Mise en page simple ou artistique
-<or>-</or> Visuels de marque, étiquettes etc.
+C'est avec <span class="emphasis"> **text** </span> et les <r>textures</r> qu'on préfère jouer, mais nous sommes disponibles pour tous vos besoins en matière de graphisme.
 
 Si vous avez une idée mais ne savez pas si c'est dans nos cordes, parlez-nous en !
 
