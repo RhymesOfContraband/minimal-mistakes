@@ -21,13 +21,32 @@ r {
 big {
     font-size: 120%;    
 }
-
+or {
+  color: ##EE8322
+}
 </style>
 
-Available for all kinds of work ranging from product labels to <big>posters</big> and <big>magazines</big>, we strive when playing with <span class="emphasis"> **text** </span> and <r>texture</r>.
 
+We strive when playing with <span class="emphasis"> **text** </span> and <r>texture</r> and are available for all kind of work:
 
+<or>-</or> Flyers & posters
+<or>-</or> Functional & artistic layout
+<or>-</or> Branding and labels and more
 
+If you have an idea but are unsure whether we could do it, talk to us about it!
 
+*Rates to be discussed depending on the scale of the project.*
+
+---
+
+<or>-</or> Flyers & posters
+<or>-</or> Mise en page simple ou artistique
+<or>-</or> Visuels de marque, étiquettes etc.
+
+Si vous avez une idée mais ne savez pas si c'est dans nos cordes, parlez-nous en !
+
+*Tarifs à discuter selon l'ampleur du projet*
+
+\\
 [Get in touch!](mailto:rhymesofcontraband@proton.me){: .btn .btn--primary .btn--x-large}
 {: .text-center}

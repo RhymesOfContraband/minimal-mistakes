@@ -33,9 +33,10 @@ A proof of concept for an academic journal with imperishable words.
 **FR**
 Un écrit d'actualité étoffe cette preuve de concept dans la phase de réflexion pour un magazine indépendant de sciences humaines.
 
-/* <figure class="align-center half mfp-image">
+<!-- For later use
+<figure class="align-center half mfp-image">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio/layout/capital.jpg" alt="">
-</figure> */
+</figure> -->
 ---
 
 {% include gallery caption="" %}
@@ -43,7 +44,7 @@ Un écrit d'actualité étoffe cette preuve de concept dans la phase de réflexi
 This facsimile of an investigation report serves as inspiration for how to conceive and present a mystery and a trail of loose ends to tie in the game [*Apotheosis Janitors*](https://wendiy.itch.io/apotheosis-janitors), made in collaboration with [wendi yu](https://twitter.com/wen_di_yu) who wrote it.
 
 **FR**
-Ce fac-similé d'un rapport d'enquête censuré sert de support d'inspiration pour élaborer et présenter un mystère et les indices qui l'accompagnent et que les joueurs doivent effacer, dans le jeu [*Apotheosis Janitors*](https://wendiy.itch.io/apotheosis-janitors), réalisé en collaboration avec [wendi yu](https://twitter.com/wen_di_yu) qui l'a écrit.
+Ce fac-similé d'un rapport d'enquête censuré sert de support d'inspiration pour élaborer et présenter un mystère et les indices qui l'accompagnent et que les joueurs doivent masquer, dans le jeu [*Apotheosis Janitors*](https://wendiy.itch.io/apotheosis-janitors), réalisé en collaboration avec [wendi yu](https://twitter.com/wen_di_yu) qui l'a écrit.
 ---
 
 <figure class="align-center half mfp-image">
