@@ -35,7 +35,7 @@ If you have an idea but are unsure whether we could do it, talk to us about it!
 
 ---
 
-C'est avec <span class="emphasis"> me **texte** </span> et les <r>textures</r> qu'on préfère jouer, mais nous sommes disponibles pour tous vos besoins en matière de graphisme.
+C'est avec le <span class="emphasis">**texte**</span> et les <r>textures</r> qu'on préfère jouer, mais nous sommes disponibles pour tous vos besoins en matière de graphisme.
 
 Si vous avez une idée mais ne savez pas si c'est dans nos cordes, parlez-nous en !
 

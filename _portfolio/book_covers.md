@@ -4,7 +4,7 @@ excerpt: ""
 header:
   image:
   teaser: /assets/images/portfolio/book-covers-sample.jpg
-  sidebar:
+sidebar:
     - title: "Personal project"
       image:
       image_alt: ""
