@@ -5,22 +5,23 @@ header:
   image:
   teaser: /assets/images/portfolio/album-covers-sample.jpg
 
+classes: wide
 gallery:
 
-  - url: /assets/images/portfolio/covers-music/inlandsis.png
-    image_path: assets/images/portfolio/covers-music/inlandsis.png
-    alt: "A novel"
-  - url: /assets/images/portfolio/covers-music/lights-out.png
-    image_path: assets/images/portfolio/covers-music/lights-out.png
-    alt: "A modernised version of the previous novel"
-  - url: /assets/images/portfolio/covers-music/samples.png
-    image_path: assets/images/portfolio/covers-music/samples.png
-    alt: "A novel"
+  - url: /assets/images/portfolio/covers-music/inlandsis.jpg
+    image_path: assets/images/portfolio/covers-music/inlandsis.jpg
+    alt: "'Off the edge', cover for a jazz album of a band named Inlandsis, minimalist, blue on white"
+  - url: /assets/images/portfolio/covers-music/lights-out.jpg
+    image_path: assets/images/portfolio/covers-music/lights-out.jpg
+    alt: "'Lights Out', cover for a jazz album of a band named Left Quartet, abstract bright shapes evokes drums and lights at once"
+  - url: /assets/images/portfolio/covers-music/samples.jpg
+    image_path: assets/images/portfolio/covers-music/samples.jpg
+    alt: "'Samples', cover for a jazz album of a band named Sciensemble, red on white, with what looks like samples under a microscope"
 
 gallery2:
-  - url: /assets/images/portfolio/covers-music/impact.png
-    image_path: assets/images/portfolio/covers-music/impact.png
-    alt: "A novel"
+  - url: /assets/images/portfolio/covers-music/impact.jpg
+    image_path: assets/images/portfolio/covers-music/impact.jpg
+    alt: "Cover for an album with a black crater leaking into the background and colourful text"
 ---
 
 <style>
