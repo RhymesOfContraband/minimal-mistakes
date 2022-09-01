@@ -1,11 +1,11 @@
 # main links
 regenerate: true
 main:
-  - title: "About"
-    url: /about/
   - title: "Portfolio"
     url: /portfolio/
     description: A sample of realisations
+  - title: "About"
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   - title: "Sitemap"

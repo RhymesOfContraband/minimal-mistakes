@@ -1,5 +1,5 @@
 ---
-title: "An exercise in book and music album covers"
+title: "Book covers from an alternate history"
 excerpt: ""
 header:
   image:
