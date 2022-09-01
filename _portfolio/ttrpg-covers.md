@@ -54,7 +54,7 @@ gallery2:
 }
 </style>
 
-{% include gallery caption="" %}
+{% include gallery layout="half" caption="" %}
 
 
 <div class="row">
