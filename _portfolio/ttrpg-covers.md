@@ -8,8 +8,8 @@ sidebar:
   - title: "Covers looking for games"
     image:
     image_alt: ""
-    text: "Some of the most fleshed out covers from the number that fill our drawers."
-    text: "Certaines des couvertures de jeux les plus abouties de la pile. "
+    text: "Some of the most fleshed out covers from the number that fill our drawers.|
+Certaines des couvertures de jeux les plus abouties de la pile. "
 classes: wide
 gallery:
 

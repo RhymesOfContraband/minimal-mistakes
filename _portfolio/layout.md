@@ -8,8 +8,8 @@ sidebar:
   - title: "Personal project"
     image:
     image_alt: ""
-    text: "A very small sample of layout work."
-    text: "Un échantillon de travail de mise en page."
+    text: "A very small sample of layout work.|Un échantillon de travail de mise en page."
+
 classes: wide ; text-center
 gallery:
   - url: /assets/images/portfolio/layout/nuees.jpg
@@ -45,6 +45,7 @@ This facsimile of an investigation report serves as inspiration for how to conce
 
 **FR**
 Ce fac-similé d'un rapport d'enquête censuré sert de support d'inspiration pour élaborer et présenter un mystère et les indices qui l'accompagnent et que les joueurs doivent masquer, dans le jeu [*Apotheosis Janitors*](https://wendiy.itch.io/apotheosis-janitors), réalisé en collaboration avec [wendi yu](https://twitter.com/wen_di_yu) qui l'a écrit.
+
 ---
 
 <figure class="align-center half mfp-image">
