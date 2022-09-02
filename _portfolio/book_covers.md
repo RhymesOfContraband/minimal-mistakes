@@ -1,6 +1,6 @@
 ---
-title: "Book covers from an alternate history"
-excerpt: ""
+title: "Book covers"
+excerpt: "From an alternate history"
 header:
   image:
   teaser: /assets/images/portfolio/book-covers-sample.jpg

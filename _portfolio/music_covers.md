@@ -1,6 +1,6 @@
 ---
-title: "Music albums from a parallel universe"
-excerpt: ""
+title: "Music albums"
+excerpt: "From a parallel universe"
 header:
   image:
   teaser: /assets/images/portfolio/album-covers-sample.jpg
