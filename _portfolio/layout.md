@@ -16,11 +16,12 @@ gallery:
     image_path: /assets/images/portfolio/layout/deux-vertus-1.jpg
     alt: "Opening page of an article about layout by Paul Valéry"
     title: ""
+gallery2:
   - url: /assets/images/portfolio/layout/deux-vertus-2.jpg
     image_path: /assets/images/portfolio/layout/deux-vertus-2.jpg
     alt: "The following of the previous image"
     title: ""
-gallery2:
+gallery3:
   - url: /assets/images/portfolio/layout/nuees.jpg
     image_path: /assets/images/portfolio/layout/nuees.jpg
     alt: "A facsimile of an investigation report"
@@ -32,7 +33,7 @@ gallery2:
 
 ---
 {% include gallery id="gallery" caption="" %}
-
+{% include gallery id="gallery2" caption="" %}
 **EN**
 In this article first published in the *Arts et métiers graphiques*,  Paul Valéry sets out to enlighten the reader about the subtleties of the printed text.
 
@@ -57,7 +58,7 @@ Un écrit d'actualité étoffe cette preuve de concept dans la phase de réflexi
 </figure> -->
 ---
 
-{% include gallery id="gallery2" caption="" %}
+{% include gallery id="gallery3" caption="" %}
 **EN**
 This facsimile of an investigation report serves as inspiration for how to conceive and present a mystery and a trail of loose ends to tie in the game [*Apotheosis Janitors*](https://wendiy.itch.io/apotheosis-janitors), made in collaboration with [wendi yu](https://twitter.com/wen_di_yu) who wrote it.
 
