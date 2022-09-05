@@ -31,17 +31,19 @@ gallery2:
     title: ""
 
 ---
-{% include gallery id="gallery2" caption="" %}
+{% include gallery id="gallery" caption="" %}
 
 **EN**
 In this article first published in the *Arts et métiers graphiques*,  Paul Valéry sets out to enlighten the reader about the subtleties of the printed text.
 
 **FR**
 Dans cet article d'abord paru dans la revue *Arts et métiers graphiques*, Paul Valéry entreprend de rendre le lecteur sensible aux subtilités de l'impression.
+
 ---
+
 <figure style ="width:60%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio/layout/capital.jpg" alt="">
-  <figcaption>.</figcaption>
+  <figcaption></figcaption>
 </figure>
 **EN**
 A proof of concept for an academic journal with imperishable words.
