@@ -16,12 +16,15 @@ gallery:
     image_path: /assets/images/portfolio/layout/deux-vertus-1.jpg
     alt: "Opening page of an article about layout by Paul Valéry"
     title: ""
-gallery2:
   - url: /assets/images/portfolio/layout/deux-vertus-2.jpg
     image_path: /assets/images/portfolio/layout/deux-vertus-2.jpg
-    alt: "The following of the previous image"
+    alt: "Page 2 of the same article"
     title: ""
-gallery3:
+  - url: /assets/images/portfolio/layout/deux-vertus-3.jpg
+    image_path: /assets/images/portfolio/layout/deux-vertus-3.jpg
+    alt: "Page 3 of the same article"
+    title: ""
+gallery2:
   - url: /assets/images/portfolio/layout/nuees.jpg
     image_path: /assets/images/portfolio/layout/nuees.jpg
     alt: "A facsimile of an investigation report"
@@ -33,7 +36,7 @@ gallery3:
 
 ---
 {% include gallery id="gallery" caption="" %}
-{% include gallery id="gallery2" caption="" %}
+
 **EN**
 In this article first published in the *Arts et métiers graphiques*,  Paul Valéry sets out to enlighten the reader about the subtleties of the printed text.
 
