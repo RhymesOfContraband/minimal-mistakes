@@ -8,21 +8,37 @@ sidebar:
   - title: "Personal project"
     image:
     image_alt: ""
-    text: "A very small sample of layout work.|Un échantillon de travail de mise en page."
+    text: "A small sample of layout work.|Un échantillon de travail de mise en page."
 
 classes: wide ; text-center
 gallery:
+  - url: /assets/images/portfolio/layout/deux-vertus-1.jpg
+    image_path: /assets/images/portfolio/layout/deux-vertus-1.jpg
+    alt: "Opening page of an article about layout by Paul Valéry"
+    title: ""
+  - url: /assets/images/portfolio/layout/deux-vertus-2.jpg
+    image_path: /assets/images/portfolio/layout/deux-vertus-2.jpg
+    alt: "The following of the previous image"
+    title: ""
+gallery2:
   - url: /assets/images/portfolio/layout/nuees.jpg
     image_path: /assets/images/portfolio/layout/nuees.jpg
-    alt: "A fac simile of an investigation report"
+    alt: "A facsimile of an investigation report"
     title: ""
   - url: /assets/images/portfolio/layout/nuees-1.jpg
     image_path: /assets/images/portfolio/layout/nuees-1.jpg
     alt: "The following of the previous image"
     title: ""
+
 ---
+{% include gallery id="gallery2" caption="" %}
 
+**EN**
+In this article first published in the *Arts et métiers graphiques*,  Paul Valéry sets out to enlighten the reader about the subtleties of the printed text.
 
+**FR**
+Dans cet article d'abord paru dans la revue *Arts et métiers graphiques*, Paul Valéry entreprend de rendre le lecteur sensible aux subtilités de l'impression.
+---
 <figure style ="width:60%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio/layout/capital.jpg" alt="">
   <figcaption>.</figcaption>
@@ -39,7 +55,7 @@ Un écrit d'actualité étoffe cette preuve de concept dans la phase de réflexi
 </figure> -->
 ---
 
-{% include gallery caption="" %}
+{% include gallery id="gallery2" caption="" %}
 **EN**
 This facsimile of an investigation report serves as inspiration for how to conceive and present a mystery and a trail of loose ends to tie in the game [*Apotheosis Janitors*](https://wendiy.itch.io/apotheosis-janitors), made in collaboration with [wendi yu](https://twitter.com/wen_di_yu) who wrote it.
 
@@ -55,4 +71,4 @@ Ce fac-similé d'un rapport d'enquête censuré sert de support d'inspiration po
 A quick wound table on which to roll some dice to see where a character gets hurts.
 
 **FR**
-Une simple table de blessure corporelle d'un personnage, selon le résultat des dés.
+Une simple table pour déterminer les blessures d'un personnage par un jet de dés.
