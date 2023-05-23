@@ -27,6 +27,13 @@ gallery2:
     image_path: assets/images/portfolio/posters/poster-campeador-1.jpg
     alt: "A fictitious and ominous corporate poster"
 
+gallery3:
+  - url: /assets/images/portfolio/posters/run-movie.jpg
+    image_path: assets/images/portfolio/posters/run-movie.jpg
+    alt: "The poster for a movie titled Run with various modes of transport"
+  - url: /assets/images/portfolio/posters/station-ex.jpg
+    image_path: assets/images/portfolio/posters/station-ex.jpg
+    alt: "The poster of an exhibition about an architect and a train station"
 ---
 
 <style>
@@ -80,7 +87,7 @@ Le poster à la grenade brandie fait référence au mouvement de *guerilla garde
   <div class="column" markdown="span">
 **EN**\\
 
-The cocktail poster was made on commission for a private party hosted at a club with a less generic name that the one displayed.\\
+The cocktail poster was made on commission for a private party hosted at a club with a less generic name than the one displayed.\\
 
 \\
 
@@ -94,6 +101,30 @@ Le poster au cocktail a été fait sur demande pour une soirée privée organis�
 \\
 \\
 *"The means to know"* est le slogan de la firme Campeador, un consortium intergalactique spécialisé dans ~~le pillage~~ la récupération d'informations et d'artefacts de la plus haute importance dans l'espace. Il joue un rôle central dans un module en cours d'écriture pour le jeu de rôle Mothership, *Operation Breach*, par [Amanda P.](https://weirdwonder.itch.io/) et dont nous réalisons la mise en page.
+
+  </div>
+</div>
+
+{% include gallery id="gallery3" layout="half" caption="" %}
+
+<div class="row">
+  <div class="column" markdown="span">
+**EN**\\
+
+RUN is a fictitious drama where the flight of a person merges with the acceleration of our times. It comes with fake studios, actors, sponsors and critics.\\
+
+\\
+
+The exhibition relates the development of the grand station and the architect who shaped it, and vice versa.
+    </div>
+  <div class="column" markdown="span">
+**FR**\\
+
+RUN est un film fictif aux studios, acteurs, sponsors et critiques fictifs, où la fuite d'une personne se mêle à l'accélération marquant notre époque.
+
+
+\\
+L'exposition dévoile l'élaboration de la gare principale et de l'architecte qui l'a façonné, et inversement.
 
   </div>
 </div>
