@@ -122,7 +122,7 @@ The exhibition relates the development of the grand station and the architect wh
 
 RUN est un film fictif aux studios, acteurs, sponsors et critiques fictifs, où la fuite d'une personne se mêle à l'accélération marquant notre époque.
 
-
+\\
 \\
 L'exposition dévoile l'élaboration de la gare principale et de l'architecte qui l'a façonné, et inversement.
 
