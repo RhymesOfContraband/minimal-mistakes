@@ -27,6 +27,12 @@ gallery:
   - url: /assets/images/portfolio/covers/ombromane_roc.png
     image_path: assets/images/portfolio/covers/ombromane_roc.png
     alt: "A novel"
+  - url: /assets/images/portfolio/covers/virage_roc.png
+    image_path: assets/images/portfolio/covers/ombromane_roc.png
+    alt: "A novel"
+  - url: /assets/images/portfolio/covers/bayou_roc.png
+    image_path: assets/images/portfolio/covers/ombromane_roc.png
+    alt: "A novel"
   - url: /assets/images/portfolio/covers/recueil_roc.png
     image_path: assets/images/portfolio/covers/recueil_roc.png
     alt: "A poetry collection"
@@ -56,13 +62,13 @@ gallery:
   <div class="column" markdown="span">
 **EN**\\
 
-Except for the first and last pieces which came from subconsciously integrating an aesthetic while browsing second hand bookstores, these covers echo in very obvious ways famous French publishers and collections. *Upon Stone and Foam* is actually the remake from a famous (in some circles) book about [Havland](https://statinstitut.github.io/).
+Except for the first and last pieces which came from subconsciously integrating aesthetic principles while browsing second hand bookstores, these covers echo in very obvious ways famous French publishers and collections. *Upon Stone and Foam* is actually the remake of a famous (in some circles) book about [Havland](https://statinstitut.github.io/).
 
     </div>
   <div class="column" markdown="span">
 **FR**\\
 
-Si les première et dernière couvertures viennent d'avoir inconsciemment intégré une esthétique en écumant les bouquinistes, les autres font écho de façon très claire à de fameuses  maisons d'édition françaises et à leurs collections. *Upon Stone and Foam* est le *remake* d'un livre célèbre (dans certains cercles) sur [Havland](https://statinstitut.github.io/).
+Si les première et dernière couvertures viennent d'avoir inconsciemment intégré des traits esthétiques en écumant les bouquinistes, les autres font écho de façon très claire à de fameuses  maisons d'édition françaises et à leurs collections. *Upon Stone and Foam* est le *remake* d'un livre célèbre (dans certains cercles) sur [Havland](https://statinstitut.github.io/).
 
 
   </div>
