@@ -63,8 +63,6 @@ Ces trois albums font partie de la bien connue collection *Blur Note*, créée d
   </div>
 </div>
 
-More text
-
 {% include gallery caption="" %}
 
 <div class="row">
