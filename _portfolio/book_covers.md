@@ -28,10 +28,10 @@ gallery:
     image_path: assets/images/portfolio/covers/ombromane_roc.png
     alt: "A novel"
   - url: /assets/images/portfolio/covers/virage_roc.png
-    image_path: assets/images/portfolio/covers/ombromane_roc.png
+    image_path: assets/images/portfolio/covers/virage_roc.png
     alt: "A novel"
   - url: /assets/images/portfolio/covers/bayou_roc.png
-    image_path: assets/images/portfolio/covers/ombromane_roc.png
+    image_path: assets/images/portfolio/covers/bayou_roc.png
     alt: "A novel"
   - url: /assets/images/portfolio/covers/recueil_roc.png
     image_path: assets/images/portfolio/covers/recueil_roc.png
