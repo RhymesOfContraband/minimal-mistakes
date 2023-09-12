@@ -80,10 +80,3 @@ La couverture ci-dessous a été créée pour illustrer le module de jeu de rôl
 </div>
 
 {% include gallery id="gallery2" caption="" %}
-
-Cette dernière couverture a été créée pour illustrer le module de jeu de rôle [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), écrit par notre camarade PanicPillow.
-
-  </div>
-</div>
-
-{% include gallery id="gallery2" caption="" %}
