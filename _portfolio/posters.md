@@ -91,7 +91,7 @@ The cocktail poster was made on commission for a private party hosted at a club 
 
 \\
 
-*"The means to know"* is the motto of the Campeador company, a mega consortium specialized in ~~pillaging~~ retrieving critical artefacts and information in space. It is a critical part of an upcoming module for the Mothership roleplaying game, *Operation Breach*, written by [Amanda P.](https://weirdwonder.itch.io/) with layout by ourselves.
+*"The means to know"* is the motto of the Campeador company, a mega consortium specialized in ~~pillaging~~ retrieving critical artefacts and information in space. It is a critical part of an upcoming module for the Mothership roleplaying game, *Resonant*, written by [Amanda P.](https://weirdwonder.itch.io/).
     </div>
   <div class="column" markdown="span">
 **FR**\\
@@ -100,7 +100,7 @@ Le poster au cocktail a été fait sur demande pour une soirée privée organis�
 
 \\
 \\
-*"The means to know"* est le slogan de la firme Campeador, un consortium intergalactique spécialisé dans ~~le pillage~~ la récupération d'informations et d'artefacts de la plus haute importance dans l'espace. Il joue un rôle central dans un module en cours d'écriture pour le jeu de rôle Mothership, *Operation Breach*, par [Amanda P.](https://weirdwonder.itch.io/) et dont nous réalisons la mise en page.
+*"The means to know"* est le slogan de la firme Campeador, un consortium intergalactique spécialisé dans ~~le pillage~~ la récupération d'informations et d'artefacts de la plus haute importance dans l'espace. Il joue un rôle central dans un module en cours d'écriture pour le jeu de rôle Mothership, *Resonant*, par [Amanda P.](https://weirdwonder.itch.io/).
 
   </div>
 </div>

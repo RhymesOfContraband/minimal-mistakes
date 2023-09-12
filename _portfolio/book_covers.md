@@ -36,6 +36,12 @@ gallery:
   - url: /assets/images/portfolio/covers/recueil_roc.png
     image_path: assets/images/portfolio/covers/recueil_roc.png
     alt: "A poetry collection"
+
+gallery2:
+
+  - url: /assets/images/portfolio/covers/orbe_roc.png
+    image_path: assets/images/portfolio/covers/orbe_roc.png
+    alt: "A cover for a novel with simple interlocking golden wheels in outer space"
 ---
 <style>
 /* Create two equal columns that floats next to each other */
@@ -69,6 +75,24 @@ Except for the first and last pieces which came from subconsciously integrating 
 **FR**\\
 
 Si les première et dernière couvertures viennent d'avoir inconsciemment intégré des traits esthétiques en écumant les bouquinistes, les autres font écho de façon très claire à de fameuses  maisons d'édition françaises et à leurs collections. *Upon Stone and Foam* est le *remake* d'un livre célèbre (dans certains cercles) sur [Havland](https://statinstitut.github.io/).
+
+
+  </div>
+</div>
+
+{% include gallery id="gallery2" caption="" %}
+
+<div class="row">
+  <div class="column" markdown="span">
+**EN**\\
+
+A quick emulation of the Electric Sheep on in the original, [Les Moutons électriques](https://www.moutons-electriques.fr/) publisher, changed to the Steam Goats.
+
+    </div>
+  <div class="column" markdown="span">
+**FR**\\
+
+Une rapide imitation des éditions des [Moutons électriques](https://www.moutons-electriques.fr/), changés en chèvres à vapeur.
 
 
   </div>
