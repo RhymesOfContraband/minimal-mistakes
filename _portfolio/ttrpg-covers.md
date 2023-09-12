@@ -39,6 +39,9 @@ gallery3:
     alt: "An iteration for Resonant"
   - url: /assets/images/portfolio/covers-ttrpg/reso_b_roc.png
     image_path: /assets/images/portfolio/covers-ttrpg/reso_b_roc.png
+  - url: /assets/images/portfolio/covers-ttrpg/reso_c_roc.jpg
+    image_path: assets/images/portfolio/covers-ttrpg/reso_c_roc.jpg
+    alt: "A TTRPG cover in orange lines over a white background with shockwaves depicting a ruptured dam spilling over"
 ---
 
 <style>
@@ -91,16 +94,12 @@ La couverture ci-dessous a été créée pour illustrer le module de jeu de rôl
   <div class="column" markdown="span">
 **EN**\\
 
-Some iterations.
-
-\\
-
-The following cover was made for a small pamphlet adventure, [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), by our comrade PanicPillow.
+A few iterations for the Mothership module *Resonant*, written by [Amanda P.](https://weirdwonder.itch.io/), in the early stages of development. 
     </div>
   <div class="column" markdown="span">
 **FR**\\
 
-Quelques itérations.
+Quelques itérations durant la phase embryonnaire du module *Resonant* prévu pour Mothership, écrit par [Amanda P.](https://weirdwonder.itch.io/).
 
   </div>
 </div>
