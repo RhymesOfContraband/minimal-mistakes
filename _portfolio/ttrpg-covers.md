@@ -5,12 +5,12 @@ header:
   image:
   teaser: /assets/images/portfolio/ttrpg-covers-sample.jpg
 sidebar:
-  - title: "Covers looking for games"
-    image:
-    image_alt: ""
-    text: "Some of the most fleshed out covers from the number that fill our drawers.|
-Certaines des couvertures de jeux les plus abouties de la pile. "
-classes: wide
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Role description"
+  - title: "Title"
+    text: "***"
 gallery:
 
   - url: /assets/images/portfolio/covers-ttrpg/adrift-roc.jpg
@@ -32,18 +32,7 @@ gallery2:
     image_path: /assets/images/portfolio/covers-ttrpg/flame-fortune.jpg
     alt: "A mock-up of a pamphlet roleplaying adventure"
 
-gallery3:
-
-  - url: /assets/images/portfolio/covers-ttrpg/reso_a_roc.png
-    image_path: assets/images/portfolio/covers-ttrpg/reso_a_roc.png
-    alt: "A TTRPG cover with the title "Overflow" and overlapping water expanses in nuances of orange and white"
-  - url: /assets/images/portfolio/covers-ttrpg/reso_b_roc.png
-    image_path: assets/images/portfolio/covers-ttrpg/reso_b_roc.png
-    alt: "A TTRPG cover with the title "Overflow" and overlapping water expanses in nuances of orange and white, reverse from the previous image"
-  - url: /assets/images/portfolio/covers-ttrpg/reso_c_roc.png
-    image_path: assets/images/portfolio/covers-ttrpg/reso_c_roc.png
-    alt: "A TTRPG cover in orange lines over a white background with shockwaves depicting a ruptured dam spilling over"
-
+#TO ADD: CAMPEADOR
 ---
 
 <style>
@@ -65,7 +54,7 @@ gallery3:
 }
 </style>
 
-{% include gallery layout="half" caption="" %}
+{% include gallery caption="" %}
 
 
 <div class="row">
@@ -76,7 +65,7 @@ The first and fourth covers stem from experimentations with spatial imagery from
 
 \\
 
-The following cover was made for a small pamphlet adventure, [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), by our comrade PanicPillow.
+This last cover was made for a small pamphlet adventure, [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), by our comrade PanicPillow.
     </div>
   <div class="column" markdown="span">
 **FR**\\
@@ -84,28 +73,10 @@ The following cover was made for a small pamphlet adventure, [*Flame and Fortune
 La première et la quatrième couvertures proviennent d'expérimentation avec des images de diverses agences spatiales et penchent vers la science-fiction. La seconde combine formes simples et textures pour dessiner une porte tout à la fois inquiétante et attirante. La troisième brouille les lignes entre une ville illuminée et un micro-organisme vus de haut.
 
 \\
-\\
-La couverture ci-dessous a été créée pour illustrer le module de jeu de rôle [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), écrit par notre camarade PanicPillow.
+
+Cette dernière couverture a été créée pour illustrer le module de jeu de rôle [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), écrit par notre camarade PanicPillow.
 
   </div>
 </div>
 
 {% include gallery id="gallery2" caption="" %}
-
-<div class="row">
-  <div class="column" markdown="span">
-**EN**\\
-
-A few iterations for the Mothership module *Resonant*, written by [Amanda P.](https://weirdwonder.itch.io/), in the early stages of development. 
-
-    </div>
-  <div class="column" markdown="span">
-**FR**\\
-
-Quelques itérations durant la phase embryonnaire du module *Resonant* prévu pour Mothership, écrit par [Amanda P.](https://weirdwonder.itch.io/).
-
-
-  </div>
-</div>
-
-{% include gallery id="gallery3" caption="" %}
