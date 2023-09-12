@@ -34,14 +34,14 @@ gallery2:
 
 gallery3:
 
-  - url: /assets/images/portfolio/covers-ttrpg/reso_a_roc.jpg
-    image_path: /assets/images/portfolio/covers-ttrpg/reso_a_roc.jpg
+  - url: /assets/images/portfolio/covers-ttrpg/reso_a_roc.png
+    image_path: assets/images/portfolio/covers-ttrpg/reso_a_roc.png
     alt: "A TTRPG cover with the title "Overflow" and overlapping water expanses in nuances of orange and white"
-  - url: /assets/images/portfolio/covers-ttrpg/reso_b_roc.jpg
-    image_path: /assets/images/portfolio/covers-ttrpg/reso_b_roc.jpg
+  - url: /assets/images/portfolio/covers-ttrpg/reso_b_roc.png
+    image_path: assets/images/portfolio/covers-ttrpg/reso_b_roc.png
     alt: "A TTRPG cover with the title "Overflow" and overlapping water expanses in nuances of orange and white, reverse from the previous image"
-  - url: /assets/images/portfolio/covers-ttrpg/reso_c_roc.jpg
-    image_path: /assets/images/portfolio/covers-ttrpg/reso_c_roc.jpg
+  - url: /assets/images/portfolio/covers-ttrpg/reso_c_roc.png
+    image_path: assets/images/portfolio/covers-ttrpg/reso_c_roc.png
     alt: "A TTRPG cover in orange lines over a white background with shockwaves depicting a ruptured dam spilling over"
 
 ---
