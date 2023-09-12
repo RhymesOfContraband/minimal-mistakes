@@ -5,12 +5,12 @@ header:
   image:
   teaser: /assets/images/portfolio/ttrpg-covers-sample.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Role description"
-  - title: "Title"
-    text: "***"
+  - title: "Covers looking for games"
+    image:
+    image_alt: ""
+    text: "Some of the most fleshed out covers from the number that fill our drawers.|
+Certaines des couvertures de jeux les plus abouties de la pile. "
+classes: wide
 gallery:
 
   - url: /assets/images/portfolio/covers-ttrpg/adrift-roc.jpg
