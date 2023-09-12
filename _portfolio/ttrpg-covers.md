@@ -36,14 +36,9 @@ gallery3:
 
   - url: /assets/images/portfolio/covers-ttrpg/reso_a_roc.png
     image_path: /assets/images/portfolio/covers-ttrpg/reso_a_roc.png
-    alt: "A TTRPG cover with the title "Overflow" and overlapping water expanses in nuances of orange and white"
+    alt: "An iteration for Resonant"
   - url: /assets/images/portfolio/covers-ttrpg/reso_b_roc.png
-    image_path: assets/images/portfolio/covers-ttrpg/reso_b_roc.png
-    alt: "A TTRPG cover with the title "Overflow" and overlapping water expanses in nuances of orange and white, reverse from the previous image"
-  - url: /assets/images/portfolio/covers-ttrpg/reso_c_roc.png
-    image_path: assets/images/portfolio/covers-ttrpg/reso_c_roc.png
-    alt: "A TTRPG cover in orange lines over a white background with shockwaves depicting a ruptured dam spilling over"
-
+    image_path: /assets/images/portfolio/covers-ttrpg/reso_b_roc.png
 ---
 
 <style>
@@ -96,7 +91,7 @@ La couverture ci-dessous a été créée pour illustrer le module de jeu de rôl
   <div class="column" markdown="span">
 **EN**\\
 
-A few iterations for the Mothership module *Resonant*, written by [Amanda P.](https://weirdwonder.itch.io/), in the early stages of development.  
+Some iterations.
 
 \\
 
@@ -105,7 +100,7 @@ The following cover was made for a small pamphlet adventure, [*Flame and Fortune
   <div class="column" markdown="span">
 **FR**\\
 
-Quelques itérations durant la phase embryonnaire du module *Resonant* prévu pour Mothership, écrit par [Amanda P.](https://weirdwonder.itch.io/).
+Quelques itérations.
 
   </div>
 </div>
