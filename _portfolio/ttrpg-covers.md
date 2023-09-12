@@ -32,7 +32,11 @@ gallery2:
     image_path: /assets/images/portfolio/covers-ttrpg/flame-fortune.jpg
     alt: "A mock-up of a pamphlet roleplaying adventure"
 
-#TO ADD: CAMPEADOR
+gallery3:
+
+  - url: /assets/images/portfolio/covers-ttrpg/reso_a_roc.png
+    image_path: /assets/images/portfolio/covers-ttrpg/reso_a_roc.png
+    alt: "An iteration for Resonant"
 ---
 
 <style>
@@ -80,3 +84,4 @@ La couverture ci-dessous a été créée pour illustrer le module de jeu de rôl
 </div>
 
 {% include gallery id="gallery2" caption="" %}
+{% include gallery id="gallery3" caption="" %}
