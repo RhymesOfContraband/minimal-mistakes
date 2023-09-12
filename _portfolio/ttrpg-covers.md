@@ -54,7 +54,7 @@ gallery2:
 }
 </style>
 
-{% include gallery caption="" %}
+{% include gallery layout="half" caption="" %}
 
 
 <div class="row">
@@ -65,7 +65,7 @@ The first and fourth covers stem from experimentations with spatial imagery from
 
 \\
 
-This last cover was made for a small pamphlet adventure, [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), by our comrade PanicPillow.
+The following cover was made for a small pamphlet adventure, [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), by our comrade PanicPillow.
     </div>
   <div class="column" markdown="span">
 **FR**\\
@@ -73,6 +73,13 @@ This last cover was made for a small pamphlet adventure, [*Flame and Fortune*](h
 La première et la quatrième couvertures proviennent d'expérimentation avec des images de diverses agences spatiales et penchent vers la science-fiction. La seconde combine formes simples et textures pour dessiner une porte tout à la fois inquiétante et attirante. La troisième brouille les lignes entre une ville illuminée et un micro-organisme vus de haut.
 
 \\
+\\
+La couverture ci-dessous a été créée pour illustrer le module de jeu de rôle [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), écrit par notre camarade PanicPillow.
+
+  </div>
+</div>
+
+{% include gallery id="gallery2" caption="" %}
 
 Cette dernière couverture a été créée pour illustrer le module de jeu de rôle [*Flame and Fortune*](https://panicpillow.itch.io/flame-and-fortune), écrit par notre camarade PanicPillow.
 
